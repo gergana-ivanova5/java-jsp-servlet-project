@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<environmentalists>
+    <environmentalist>
+        <name>12</name>
+        <username>12</username>
+        <password>12</password>
+        <phoneNumber>12</phoneNumber>
+    </environmentalist>
+    <environmentalist>
+        <name>45</name>
+        <username>45</username>
+        <password>45</password>
+        <phoneNumber>45</phoneNumber>
+    </environmentalist>
+    <environmentalist>
+        <name>67</name>
+        <username>67</username>
+        <password>67</password>
+        <phoneNumber>67</phoneNumber>
+    </environmentalist>
+    <environmentalist>
+        <name>56</name>
+        <username>56</username>
+        <password>56</password>
+        <phoneNumber>56</phoneNumber>
+    </environmentalist>
+    <environmentalist>
+        <name>78</name>
+        <username>78</username>
+        <password>78</password>
+        <phoneNumber>78</phoneNumber>
+    </environmentalist>
+    <environmentalist>
+        <name>blue</name>
+        <username>blue</username>
+        <password>blue</password>
+        <phoneNumber>088</phoneNumber>
+    </environmentalist>
+</environmentalists>
